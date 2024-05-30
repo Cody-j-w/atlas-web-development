@@ -219,6 +219,10 @@ a:active {
     margin-bottom: 5px;
 }
 
+.avatar-image {
+    border-radius: 50%;
+}
+
 .awards {
     margin-top: 5px;
     font-style: italic;
